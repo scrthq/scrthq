@@ -1,0 +1,1 @@
+## Jekyll site for scrthq.com hosted on GitHub Pages
